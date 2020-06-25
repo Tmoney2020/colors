@@ -10,6 +10,7 @@ body {
   margin: 0;
   display: flex;
   justify-content: center;
+  background-color: black;
 }
 
 main {
@@ -18,6 +19,14 @@ main {
   justify-content: wrap;
   border: 1px solid black;
   background-color: grey;
+}
+
+p {
+  color: whitesmoke;
+}
+
+code {
+  color: white;
 }
 
 .colorBox {
@@ -38,6 +47,7 @@ main {
   align-items: center;
   justify-content: center;
   margin-bottom: 1rem;
+  background-color: whitesmoke;
 }
 
 img {
